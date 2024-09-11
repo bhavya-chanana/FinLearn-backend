@@ -5,7 +5,7 @@ import numpy as np
 # Initialize the client with the model and API token
 client = InferenceClient(
     "mistralai/Mistral-7B-Instruct-v0.3",
-    token="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",  # Replace with your actual Hugging Face API token
+    token=" ",  # Replace with your actual Hugging Face API token
 )
 
 # Initialize the retrieval model
