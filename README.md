@@ -1,4 +1,4 @@
-# FinLearn Backend
+# FinLearn backend
 
 Welcome to the FinLearn backend repository! This project serves as the backend for the FinLearn platform, a financial learning application designed to help users enhance their financial literacy.
 
